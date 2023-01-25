@@ -15,7 +15,7 @@ body{
 .js-output {
     border: 3px solid red;
     border-radius: 10px;
-    width: 50px;
+    width: 65px;
     height: 30px;
     display: flex;
     align-items: center;
